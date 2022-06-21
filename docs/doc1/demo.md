@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Docusaurus でも
+# Docusaurus デモ
 
 ## H2タイトル
 ドキュメントを記載していく
